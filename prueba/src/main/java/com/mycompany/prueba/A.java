@@ -11,10 +11,11 @@ package com.mycompany.prueba;
 public class A
 {
     private String A;
-
+    
     public A(String A)
     {
         this.A = A;
+        System.out.println("Holaaaaaaa");
     }
 
     public String getA()
